@@ -19,6 +19,6 @@
             "url": "https://github.com/MayerKazui/skl-component-vue-vite-tailwind"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
