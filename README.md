@@ -1,6 +1,6 @@
 # Vue 3 (vanilla) + Vite + Tailwind cSS
 
-This template use viteJS, Vue 3 and Tailwind CSS. It's here to provide help to creating npm package for using compononent in all your project.
+This template use viteJS, Vue 3 and Tailwind CSS. It's here to provide help to creating npm package for using component in all your project.
 
 ## Recommended IDE Setup
 
