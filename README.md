@@ -7,7 +7,11 @@ This template use viteJS, Vue 3 and Tailwind CSS. It's here to provide help to c
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 # Setup
+## Install
+Once the project was pull you have to run "npm install"
+
 ## Changing names
+
 To setup this project before publishing your own package, you have to :
 - Change the name of the component under "src/components/"
 - Change the name of the component in index.js
@@ -20,8 +24,17 @@ To setup this project before publishing your own package, you have to :
 After that you can create your component in "/src/components/ComponentName.vue", then run build and finish by "npm publish"
 
 # Uses
-## Vue 3 project
+## Common
 
+Once your package was published you can go to app and run "npm i your-npm-package"
+
+## Vue 3 project + Laravel + Inertia
+
+You can use your component globally by configure your "app.js" like this : 
+
+
+
+## Vue 3 vanilla
 
 # Advices
 For an optimal uses please use "@vitejs/plugin-vue": "^2.0.0" and "vite": "^2.7.2",
