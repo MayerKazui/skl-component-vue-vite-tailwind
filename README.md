@@ -8,7 +8,10 @@ This template use viteJS, Vue 3 and Tailwind CSS. It's here to provide help to c
 
 # Setup
 ## Install
-Once the project was pull you have to run "npm install"
+
+You can install this project by using : composer create-project mayer-kazui/skl-component-vue-tailwind
+
+Once the project was create you have to run "npm install"
 
 ## Changing names
 
