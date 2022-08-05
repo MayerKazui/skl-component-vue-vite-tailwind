@@ -1,6 +1,7 @@
 {
     "name": "mayer-kazui/skl-component-vue-tailwind",
     "description": "This is a template to create npm package for vue 3 component using vite and tailwind CSS",
+    "license": "MIT",
     "type": "project",
     "autoload": {
         "psr-4": {
