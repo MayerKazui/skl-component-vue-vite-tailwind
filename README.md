@@ -34,7 +34,5 @@ You can use your component globally by configure your "app.js" like this :
 
 ![alt text](https://github.com/MayerKazui/skl-component-vue-vite-tailwind/blob/master/public/img/InertiaConfig.png?raw=true)
 
-## Vue 3 vanilla
-
 # Advices
 For an optimal uses please use "@vitejs/plugin-vue": "^2.0.0" and "vite": "^2.7.2",
