@@ -13,6 +13,12 @@
             "email": "mayer.kazui@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/MayerKazui/skl-component-vue-vite-tailwind"
+        }
+    ],
     "minimum-stability": "stable",
     "require": {}
 }
