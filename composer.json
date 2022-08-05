@@ -1,0 +1,18 @@
+{
+    "name": "mayer-kazui/skl-component-vue-tailwind",
+    "description": "This is a template to create npm package for vue 3 component using vite and tailwind CSS",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MayerKazui\\SklComponentVueTailwind\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MayerKazui",
+            "email": "mayer.kazui@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
