@@ -32,7 +32,7 @@ Once your package was published you can go to app and run "npm i your-npm-packag
 
 You can use your component globally by configure your "app.js" like this : 
 
-
+![alt text](https://github.com/MayerKazui/skl-component-vue-vite-tailwind/blob/master/public/img/InertiaConfig.png?raw=true)
 
 ## Vue 3 vanilla
 
