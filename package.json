@@ -1,0 +1,32 @@
+{
+  "name": "component-name",
+  "version": "0.0.1",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/component-name.umd.js",
+  "module": "./dist/component-name.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/component-name.es.js",
+      "require": "./dist/component-name.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "vite": "^2.7.2",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
+  }
+}
